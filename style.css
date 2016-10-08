@@ -1,0 +1,49 @@
+.main{
+    width: 755px;
+height: 100%;/* height: 500px;*/
+    border:  50px solid #06064e;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left:60px; 
+
+}
+.uperlogo img{
+    width: 430px;
+    height: 62px;
+    margin-top: -25px;
+    margin-left:155px; 
+}
+h1.head{
+    width:525px; 
+    font-size: 20px;
+    text-align: center;
+    margin-left:100px;
+    color: darkblue;
+
+}
+.logo{
+    width: 50px; 
+    margin-left:161px; 
+}
+.logo img{
+    width: 400px;
+    height: 126px;
+
+}
+div .std{
+    margin-top: 200px;
+    margin-left:50px; 
+    margin-bottom:20px;
+
+}
+.border img{
+    width: 255px;
+   margin-left: 475px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+.std p{
+    font-weight: bold;
+    color:#60a71b;
+    padding-bottom: 30px;
+}
